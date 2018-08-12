@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="number">+999-999-9999</string>
+    <string name="address">7512 Ovet Station, Ot A.D View, New Delhi</string>
+    <string name="web">www.snorotech.com</string>
+    <string name="work">SnoRo Technologies is a small startup in service robot customization. Founded on 11.12.13. Run by Robots, invented by Humans.</string>
+    <string name="name">S.n.o.R.o Technologies</string>
+</resources>
